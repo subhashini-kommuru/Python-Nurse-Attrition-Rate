@@ -1,2 +1,4 @@
 # Python-Nurse-Attrition-Rate
- Nurse Attrition Rate analysis in Health Care Industry
+ Data Analysis project for Nurse Attrition Rate in Health Care Industry
+
+## Project Overview
